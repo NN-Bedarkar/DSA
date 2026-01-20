@@ -1,2 +1,2 @@
 # DSA
-data structure and algorithm - (Amit Khurana)
+data structure and algorithm
